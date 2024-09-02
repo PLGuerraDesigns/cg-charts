@@ -4,22 +4,22 @@ CG Charts is a cpp program that generates a bar chart from a txt file. It was de
 
 **Project Instructions:**
 
-https://github.com/PLGuerraDesigns/cg-graphics/blob/main/instructions.pdf
+https://github.com/PLGuerraDesigns/cg-charts/blob/main/instructions.pdf
 
 **Project Report:**
 
-https://github.com/PLGuerraDesigns/cg-graphics/blob/main/report.pdf
+https://github.com/PLGuerraDesigns/cg-charts/blob/main/report.pdf
 
 ### Screenshots
 
-![Generate Command](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/generate.png)
+![Generate Command](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/generate.png)
 
-![Display Command](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/display.png)
+![Display Command](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/display.png)
 
-![Column Chart](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/column.png)
+![Column Chart](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/column.png)
 
-![Point Chart](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/point.png)
+![Point Chart](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/point.png)
 
-![Area Chart](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/area.png)
+![Area Chart](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/area.png)
 
-![Line Chart](https://github.com/PLGuerraDesigns/cg-graphics/blob/main/screenshots/line.png)
+![Line Chart](https://raw.githubusercontent.com/PLGuerraDesigns/cg-charts/main/screenshots/line.png)
